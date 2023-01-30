@@ -5,7 +5,7 @@
 ### Programming Projects
 
 [PPM Image Manipulation in C](https://github.com/Devinevangelista/PPM-Image-Manipulation)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PhotoforWebsite.jpg?raw=true"/>
 
 ---
 <!--
