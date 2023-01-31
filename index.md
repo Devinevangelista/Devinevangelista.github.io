@@ -5,7 +5,12 @@
 ### Programming Projects
 
 [PPM Image Manipulation in C](https://github.com/Devinevangelista/PPM-Image-Manipulation)
+
+This program utilizes multifile compilation to intake a list of numbers from a file and output them as a PPM image. This program also manipulates the values to allow for different image outputs. 
+
+
 <img src="images/PhotoforWebsite.jpg?raw=true"/>
+
 
 ---
 <!--
