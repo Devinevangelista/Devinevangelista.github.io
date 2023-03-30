@@ -20,7 +20,7 @@ This program uses fundamentals of object oriented programming to play a simple c
 
 <img src="images/CardgameDemo.jpg?raw=true"/>
 
-<!-----
+<!---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
