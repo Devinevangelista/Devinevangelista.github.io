@@ -11,7 +11,7 @@ This program utilizes the Standard Template Library to sort data taken in from a
 Click on the link above to go to my repository. 
 
 
-<img src="images/BooksRecPic.jpg?raw=true" width="50%" height="50%"/>
+<img src="images/BooksRecPic.jpg?raw=true" width="65%" height="65%"/>
 
 
 ---
